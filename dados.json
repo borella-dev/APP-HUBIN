@@ -1,13 +1,13 @@
 {
     "usuarios": [
         {
-            "nome": "foda",
+            "nome": "Natalie",
             "email": "nn@gmail.com",
             "senha": "991199",
             "tipo": "Candidato"
         },
         {
-            "nome": "kkk",
+            "nome": "Kalvin",
             "email": "kkk@gmail.com",
             "senha": "991199",
             "tipo": "Candidato"
@@ -15,7 +15,7 @@
     ],
     "candidatos": [
         {
-            "nome": "kkk",
+            "nome": "Kiko",
             "email": "kkk@gmail.com",
             "telefone": "",
             "cidade": "",
